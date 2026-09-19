@@ -1,17 +1,17 @@
 # Praktické aktivity a scénáře výuky
-# Kapitola není hotová
+
 !!! abstract "Cíl kapitoly"
-    Připravené aktivity, které lze ihned použít ve třídě. Každá aktivita obsahuje cíl, časový odhad, potřebné vybavení a krok za krokem popis průběhu.
+    V kapitole najdete aktivity připravené k použití do hodiny.
 
 ---
 
 ## Přehled aktivit
 
-| Aktivita | Čas | Stupeň | Jazyk |
-|---|---|---|---|
-| [Ladění chyb s AI asistentem](ladeni-chyb.md) | 45 min | ZŠ / SŠ | Python |
-| [AI jako recenzent kódu](recenzent-kodu.md) | 30 min | SŠ / VŠ | Libovolný |
-| [Prompt writing – jak se AI ptát](prompt-writing.md) | 60 min | ZŠ–VŠ | – |
+| Aktivita | Čas |
+|---|---|
+| [Ladění chyb s AI asistentem](ladeni-chyb.md) | 45 min |
+| [AI jako recenzent kódu](recenzent-kodu.md) | 30 min |
+| [Prompt writing – jak se AI ptát](prompt-writing.md) |
 
 ---
 
@@ -20,10 +20,9 @@
 Každá aktivita je strukturovaná takto:
 
 1. **Cíl** – co žáci po aktivitě umí
-2. **Potřebné vybavení** – hardware, software, přístupy
-3. **Postup** – krok za krokem
-4. **Variace** – úpravy pro různé úrovně
-5. **Hodnocení** – jak aktivitu zhodnotit
+2. **Postup** – krok za krokem
+3. **Variace** – úpravy pro různé úrovně
+4. **Hodnocení** – jak aktivitu zhodnotit
 
 ---
 

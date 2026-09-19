@@ -25,14 +25,14 @@ Ačkoliv je příručka primárně zaměřena pro středoškolské učitele, ně
 
 | Kapitola | Stručný popis |
 |---|---|
-| [1 · Generativní AI ve výuce programování](kapitola-01/index.md) | Přínosy, omezení a role AI ve výuce programování|
-| [2 · Pedagogické promptování](kapitola-02/index.md) | Efektivní práce s AI, Plan-Prompt-Monitor-Reflect|
-| [3 · AI jako tutor](kapitola-03/index.md) | Vysvětlování, ověřování porozumění kódu|
-| [4 · Debugování kódu s AI](kapitola-04/index.md) | Postup při hledání, opravě a ověřování chyb|
-| [5 · AI párové programování](kapitola-05/index.md) | Programování ve dvojicích s AI|
-| [6 · AI jako nástroj pro přípravu učitele](kapitola-06/index.md) | Generování úloh, testů a ukázkových řešení|
-| [7 · Praktické aktivity](kapitola-07/index.md) | Aktivity připravené k použití ve výuce|
-| [8 · Hodnocení studentů](kapitola-08/index.md) | Hodnocení procesu a porozumění kódu|
+| [1 · Generativní AI ve výuce programování](kapitola-01/index.md) | Přínosy a omezení AI ve výuce programování|
+| [2 · Pedagogické promptování](kapitola-02/index.md) | Efektivní práce s AI podporující učení|
+| [3 · AI jako tutor](kapitola-03/index.md) | Porozumění kódu, reflexe AI výstupu|
+| [4 · Debugování kódu s AI](kapitola-04/index.md) | AI jako pomocník a generátor kódu při ladění|
+| [5 · AI párové programování](kapitola-05/index.md) | Programování s AI, využití AI jako asistenta|
+| [6 · AI jako nástroj pro přípravu učitele](kapitola-06/index.md) | Generování úloh, testů a pomoc při plánování výuky|
+| [7 · Praktické aktivity](kapitola-07/index.md) | Aktivity k použití ve výuce|
+| [8 · Hodnocení studentů](kapitola-08/index.md) | Hodnocení procesu, porozumění kódu a práce s AI|
 | [9 · Závěr](kapitola-09/index.md) | Shrnutí hlavních principů a doporučení|
 | [10 · Zdroje](kapitola-10/index.md) | Použité zdroje|
 

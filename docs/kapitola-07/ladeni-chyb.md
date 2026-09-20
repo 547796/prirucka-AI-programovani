@@ -1,12 +1,12 @@
 # Aktivita: Debugování kódu
 
-**Časový odhad:** 10-30 minut (podle znalostí studentů)
+**Časový odhad:** 15-30 minut (podle znalostí studentů)
 
 ---
 
 ## Cíl aktivity
 
-Procvičení identifikace a opravy logických chyb v programu s podporou AI. Žáci nemusí řešit příliš syntax a mohou se zaměřit více na logiku kódu. Zdůrazněte studentům, že je potřeba s AI komunikovat stylem podporující jejich přemýšlení.
+Procvičení identifikace a opravy logických chyb v programu s podporou AI. Aktivita se zaměřuje na logické chyby a porozumění algoritmu. Zdůrazněte studentům, že je potřeba s AI komunikovat *[stylem podporující jejich přemýšlení](../kapitola-02/index.md)*. Aktivita je vhodná pro žáky, kteří znají princip bubble sortu.
 
 ---
 
@@ -38,15 +38,30 @@ for i in range(n-1):
 print(mylist)
 ```
 
+Očekávaný výstup je [3, 7, 9, 11, 12].
+
 ---
 
 # Vzorové řešení
 
 ```python title="bubblesort.py"
-řešení # (1)!
 
+mylist = [7, 3, 9, 12, 11]
+
+n = len(mylist)
+for i in range(n-1):
+  swapped = False # přesunuto do cyklu
+  for j in range(n-i-1):
+    if mylist[j] > mylist[j+1]: # i nahrazeno za j+1
+      mylist[j], mylist[j+1] = mylist[j+1], mylist[j] # i nahrazeno za j+1
+      swapped = True
+  if not swapped: # přidána negace
+    break
+
+print(mylist)
 ```
-1. proměnná swapped patří na začátek vnějšího cyklu; v podmínce má být i všude nahrazeno za j+1; poslední podmínku je potřeba znegovat
+
+Kód vychází z příkladu na stránce [W3Schools](https://www.w3schools.com/python/python_dsa_bubblesort.asp).
 
 ---
 
@@ -54,7 +69,7 @@ print(mylist)
 
 !!! example "Na konci aktivity se zamyslete nad otázkami:"
     - Kde vznikly chyby a jaký měly dopad na program?
-    - Proč mnou opravený kód (ne)funguje?
+    - Proč mnou opravený kód (ne)funguje? Jak jsem ověřil funkčnost?
     - Poradila mi AI dobře? Proč jsem návrh od AI přijal nebo zamítl?
 
 *[← Zpět na přehled aktivit](index.md)*

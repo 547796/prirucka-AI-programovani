@@ -28,14 +28,13 @@ Až budete mít správný prompt, odeberte z něj nějakou pedagogicky důležit
 
 ---
 
-# Vzorové řešení
+??? success "Vzorové řešení"
+    Role AI: tutor / učitel programování pro začátečníky <br>
+    Postup výuky: navádějící otázky
 
-Role AI: tutor / učitel programování pro začátečníky <br>
-Postup výuky: navádějící otázky
-
-Jsem začátečník v Pythonu, znám větvení a cykly. Mám potíže s úkolem, nevím jak vytvořit logiku pro cyklus. Zadání je následující:<br>
-[Zadání]<br>
-Vystupuj jako tutor programování pro začátečníky a pomocí vhodných otázek mě naveď, jak by cyklus měl fungovat. Nedávej mi řešení ani hotový kód.
+    Jsem začátečník v Pythonu, znám větvení a cykly. Mám potíže s úkolem, nevím jak vytvořit logiku pro cyklus. Zadání je následující:<br>
+    [Zadání]<br>
+    Vystupuj jako tutor programování pro začátečníky a pomocí vhodných otázek mě naveď, jak by cyklus měl fungovat. Nedávej mi řešení ani hotový kód.
 
 ---
 

@@ -5,7 +5,7 @@
 
 ---
 
-Kromě využití umělé inteligence při psaní kódů je možné ji využít také při jeho degugování. AI může studentovi vodicími otázkami pomoci pochopit, proč daný program nefunguje správně, a vést ho při jeho opravě. Dále je možné nechat AI vytvořit kód a jeho debugování přenechat studentovi.
+Kromě využití umělé inteligence při psaní kódů je možné ji využít také při jeho degugování. AI může studentovi vodicími otázkami pomoci pochopit, proč daný program nefunguje správně, a vést ho při jeho opravě. Dále je možné nechat AI vytvořit kód a jeho debugování přenechat studentovi. Konkrétní příklad aktivity zaměřené na debugování kódu s AI naleznete *[zde](../kapitola-07/ladeni-chyb.md)*.
 
 ---
 
@@ -27,8 +27,6 @@ V rámci promptu může být AI instruována, aby při pomoci studentovi s debug
 Opravit kód, který vegenerovala AI může pro studenty kognitivně náročnější, proto by měl být tento typ úlohy zařazen do výuky jako pokročilejší úloha. Jako kód pro úlohu lze použít kód, který AI záměrně na pokyn vygenerovala s chybou, nebo kód, ve kterém AI při generování neúmyslně vytvořila chybu. Student by nejprve měl sám ověřit jak dobře kód funguje, například jestli kód postrádá klíčovou logiku, nebo stačí pouze upravit okrajové případy. Potom začít s debugováním a případně se poradit s AI, jak je popsáno výše.
 
 Při opravování AI-generovaného kódu může být problém způsoben i snadno přehlédnutelnou chybou, jako je záměna *<* za *<=* nebo *elif* za *if* nebo špatné zacházení s výstupem (*print* namísto *return*). Proto je nutné vždy kriticky ověřit AI výstup, jak je popsáno v *[předchozí kapitole](../kapitola-03/index.md)*.
-
-Konkrétní příklad aktivity zaměřené na debugování AI-generovaného kódu naleznete v kapitole **HODIT ODKAZ NA PŘÍKLAD**.
 
 ---
 

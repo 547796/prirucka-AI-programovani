@@ -1,7 +1,9 @@
 # Praktické aktivity do výuky
 
 !!! abstract "Cíl kapitoly"
-    V kapitole najdete aktivity k použití do hodiny.
+    V kapitole najdete aktivity k použití do hodiny. Aktivity jsou navrženy tak aby využití AI nebránilo procesu učení.
+
+Aktivity slouží pro učitele i jako praktická inspirace zapojení AI do výuky. U každé aktivity je uveden její cíl, odhadovaný čas a reflexe samotné aktivity.
 
 ---
 
@@ -9,21 +11,10 @@
 
 | Aktivita | Čas |
 |---|---|
-| [Promptování](prompt-writing.md) | 20 min |
-| [Ladění chyb s AI asistentem](ladeni-chyb.md) | 45 min |
+| [Promptování](prompt-writing.md) | 15-20 min |
+| [Debugování kódu](ladeni-chyb.md) | 15-30 min |
 | [AI jako recenzent kódu](recenzent-kodu.md) | 30 min |
 
-
----
-
-## Jak aktivity číst
-
-Každá aktivita je strukturovaná takto:
-
-1. **Cíl** – co žáci po aktivitě umí
-2. **Postup** – krok za krokem
-3. **Variace** – úpravy pro různé úrovně
-4. **Hodnocení** – jak aktivitu zhodnotit
 
 ---
 

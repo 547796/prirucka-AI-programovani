@@ -13,6 +13,7 @@ Procvičení identifikace a opravy logických chyb v programu s podporou AI. Akt
 # Zadání
 
 Opravte následující bubble sort kód. Postupujte podle následujících instrukcí:
+
 - identifikujte možné chyby v kódu (bez použití AI),
 - u každé chyby zkuste vysvětlit, proč může způsobit nesprávné chování programu,
 - navrhněte opravu (bez použití AI),

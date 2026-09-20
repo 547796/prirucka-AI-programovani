@@ -1,96 +1,60 @@
-# Aktivita: Ladění chyb s AI asistentem
+# Aktivita: Debugování kódu
 
-**Čas:** 45 minut &nbsp;|&nbsp; **Stupeň:** ZŠ / SŠ &nbsp;|&nbsp; **Jazyk:** Python
+**Časový odhad:** 10-30 minut (podle znalostí studentů)
 
 ---
 
 ## Cíl aktivity
 
-Žáci se naučí:
-
-- formulovat dotaz na AI tak, aby dostali užitečnou nápovědu (ne hotové řešení),
-- kriticky posoudit odpověď AI a ověřit ji spuštěním kódu,
-- rozlišit vlastní chybu od chyby v odpovědi AI.
+Procvičení identifikace a opravy logických chyb v programu s podporou AI. Žáci nemusí řešit příliš syntax a mohou se zaměřit více na logiku kódu. Zdůrazněte studentům, že je potřeba s AI komunikovat stylem podporující jejich přemýšlení.
 
 ---
 
-## Potřebné vybavení
+# Zadání
 
-- Počítač s přístupem k internetu (1 na žáka nebo dvojici)
-- Přístup k ChatGPT nebo Claude (zdarma)
-- Python prostředí – IDLE, Thonny nebo online (repl.it)
+Opravte následující bubble sort kód. Postupujte podle následujících instrukcí:
+- identifikujte možné chyby v kódu (bez použití AI),
+- u každé chyby zkuste vysvětlit, proč může způsobit nesprávné chování programu,
+- navrhněte opravu (bez použití AI),
+- konzultujte svůj návrh s AI pomocí pedagogického promptování,
+- pokud si s něčím nevíte rady, nechte se od AI navést,
+- ověřte fungování po opravě chyby.
 
----
+Při komunikaci s AI popište svůj návrh opravy a zamyslete se, zda výstupy od AI dávají logicky smysl. Zakažte AI vytvořit hotové řešení.
 
-## Postup
+```python title="bubblewrong.py"
+mylist = [7, 3, 9, 12, 11]
 
-### Fáze 1 – Příprava (5 min)
+n = len(mylist)
+swapped = False
+for i in range(n-1):
+  for j in range(n-i-1):
+    if mylist[j] > mylist[i]:
+      mylist[j], mylist[i] = mylist[i], mylist[j]
+      swapped = True
+  if swapped:
+    break
 
-Učitel rozdá žákům záměrně chybný kód:
-
-```python title="kod_s_chybami.py"
-def secti_cisla(a, b)
-    soucet = a + b
-    return součet  # (1)!
-
-vysledek = secti_cisla(3, 5)
-print("Výsledek je: " + vysledek)
+print(mylist)
 ```
 
-1. Pozor – proměnná má diakritiku, Python si s tím neporadí.
+---
 
-!!! tip "Tip pro učitele"
-    Kód obsahuje 3 záměrné chyby. Žáci je mají nejprve najít **sami**, bez AI.
+# Vzorové řešení
 
-### Fáze 2 – Samostatná práce (10 min)
+```python title="bubblesort.py"
+řešení # (1)!
 
-Žáci se pokusí chyby najít a opravit bez pomoci AI. Výsledky si zapíší.
-
-### Fáze 3 – Práce s AI (20 min)
-
-Žáci popíší chybu AI asistentu. Diskutujte předem, **jak se ptát**:
-
-=== "Špatný prompt"
-    ```
-    Oprav mi tento kód.
-    ```
-    *(AI kód opraví, žák se nic nenaučí)*
-
-=== "Dobrý prompt"
-    ```
-    Tento kód mi hází chybu: SyntaxError: invalid syntax.
-    Nevíš, co by mohlo být špatně? Nepiš mi opravený kód,
-    jen mi poraď, kde hledat.
-    ```
-
-### Fáze 4 – Reflexe (10 min)
-
-Třídní diskuze:
-
-- Pomohla AI? Jak?
-- Řekla AI něco špatně?
-- Co bys příště zeptal jinak?
+```
+1. proměnná swapped patří na začátek vnějšího cyklu; v podmínce má být i všude nahrazeno za j+1; poslední podmínku je potřeba znegovat
 
 ---
 
-## Variace
+# Reflexe
 
-!!! example "Pro pokročilé (SŠ/VŠ)"
-    Žáci sami vytvoří chybný kód pro spolužáka. Pak ho ladí společně s AI.
+!!! example "Na konci aktivity se zamyslete nad otázkami:"
+    - Kde vznikly chyby a jaký měly dopad na program?
+    - Proč mnou opravený kód (ne)funguje?
+    - Poradila mi AI dobře? Proč jsem návrh od AI přijal nebo zamítl?
 
-!!! example "Pro začátečníky (ZŠ)"
-    Zjednodušit na 1 chybu, pracovat ve dvojicích, učitel moderuje dialog s AI společně.
-
----
-
-## Hodnocení
-
-Žáci odevzdají krátkou reflexi (5–10 vět):
-
-1. Jaké chyby jsi v kódu našel/a?
-2. Jak jsi formuloval/a dotaz na AI?
-3. Byla odpověď AI správná? Jak jsi to ověřil/a?
-
----
-
-*[Další aktivita: AI jako recenzent kódu →](recenzent-kodu.md)*
+*[← Zpět na přehled aktivit](index.md)*

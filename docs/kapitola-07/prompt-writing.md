@@ -1,4 +1,4 @@
-# Aktivita: Prompt writing – jak se AI správně ptát
+# Aktivita: Promptování
 
 **Časový odhad:** 15-20 minut
 
@@ -9,8 +9,6 @@
 Žáci si prakticky vyzkouší tvorbu pedagogického promptu, sami si musí dobře zvolit jaké instrukce AI dají. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci kapitoly. Zadání aktivity musí učitel vhodně doplnit pro své žáky. Pomocí navazující varianty si uvědomí význam jednotlivých částí promptu.
 
 ---
-
-## Aktivita
 
 # Zadání
 
@@ -28,6 +26,8 @@ Musíte správně určit jakou roli má AI zastávat a postup jakým by studento
 
 Až budete mít správný prompt, odeberte z něj nějakou pedagogicky důležitou informaci (úroveň žáka, ochranné pvky, roli AI, postup výuky) a zkuste tento prompt dát AI v novém chatu. Porovnejte AI výstupy. Neodebírejte z promptu logicky nezbytné informace jako jsou kontext nebo potíže.
 
+---
+
 # Vzorové řešení
 
 Role AI: tutor / učitel programování pro začátečníky <br>
@@ -37,11 +37,13 @@ Jsem začátečník v Pythonu, znám větvení a cykly. Mám potíže s úkolem,
 [Zadání]<br>
 Vystupuj jako tutor programování pro začátečníky a pomocí vhodných otázek mě naveď, jak by cyklus měl fungovat. Nedávej mi řešení ani hotový kód.
 
+---
+
 # Reflexe
 
-Na konci aktivity se zamyslete nad otázkami:
-- Proč je vhodné zvolit roli AI jako tutora? V čem se tato role liší od kódovacího asistenta nebo debugera?
-- Proč je vhodné použít naváděcí otázky jako postup výuky?
-- Jak moc se změnily AI výstupy po odebrání části promptu? Jak to mohlo ovlivnit proces učení?
+!!! example "Na konci aktivity se zamyslete nad otázkami:"
+    - Proč je vhodné zvolit roli AI jako tutora? V čem se tato role liší od kódovacího asistenta nebo debugera?
+    - Proč je vhodné použít naváděcí otázky jako postup výuky?
+    - Jak moc se změnily AI výstupy po odebrání části promptu? Jak to mohlo ovlivnit proces učení?
 
 *[← Zpět na přehled aktivit](index.md)*

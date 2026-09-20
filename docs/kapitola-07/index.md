@@ -1,7 +1,7 @@
-# Praktické aktivity a scénáře výuky
+# Praktické aktivity do výuky
 
 !!! abstract "Cíl kapitoly"
-    V kapitole najdete aktivity připravené k použití do hodiny.
+    V kapitole najdete aktivity k použití do hodiny.
 
 ---
 
@@ -9,9 +9,10 @@
 
 | Aktivita | Čas |
 |---|---|
+| [Promptování](prompt-writing.md) | 20 min |
 | [Ladění chyb s AI asistentem](ladeni-chyb.md) | 45 min |
 | [AI jako recenzent kódu](recenzent-kodu.md) | 30 min |
-| [Prompt writing – jak se AI ptát](prompt-writing.md) |
+
 
 ---
 
@@ -26,4 +27,4 @@ Každá aktivita je strukturovaná takto:
 
 ---
 
-*[Přejít na první aktivitu: Ladění chyb s AI →](ladeni-chyb.md)*
+*[Přejít na první aktivitu: Promptování →](prompt-writing.md)*

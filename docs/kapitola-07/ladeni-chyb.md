@@ -42,8 +42,7 @@ Očekávaný výstup je [3, 7, 9, 11, 12].
 
 ---
 
-# Vzorové řešení
-??? example "Vzorové řešení"
+??? success "Vzorové řešení"
     ```python title="bubblesort.py"
         mylist = [7, 3, 9, 12, 11]
 

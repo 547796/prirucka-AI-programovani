@@ -52,6 +52,9 @@ markdown_extensions:
   - tables
   - footnotes
 
+extra_css:
+  - assets/extra.css
+
 nav:
   - Úvod: index.md
   - "1 · Generativní AI ve výuce programování": kapitola-01/index.md

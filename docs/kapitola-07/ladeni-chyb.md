@@ -44,22 +44,21 @@ Očekávaný výstup je [3, 7, 9, 11, 12].
 
 # Vzorové řešení
 ??? example "Vzorové řešení"
+    ```python title="bubblesort.py"
+        mylist = [7, 3, 9, 12, 11]
 
-```python title="bubblesort.py"
-    mylist = [7, 3, 9, 12, 11]
+        n = len(mylist)
+        for i in range(n-1):
+        swapped = False # přesunuto do cyklu
+        for j in range(n-i-1):
+            if mylist[j] > mylist[j+1]: # i nahrazeno za j+1
+            mylist[j], mylist[j+1] = mylist[j+1], mylist[j] # i nahrazeno za j+1
+            swapped = True
+        if not swapped: # přidána negace
+            break
 
-    n = len(mylist)
-    for i in range(n-1):
-    swapped = False # přesunuto do cyklu
-    for j in range(n-i-1):
-        if mylist[j] > mylist[j+1]: # i nahrazeno za j+1
-        mylist[j], mylist[j+1] = mylist[j+1], mylist[j] # i nahrazeno za j+1
-        swapped = True
-    if not swapped: # přidána negace
-        break
-
-    print(mylist)
-```
+        print(mylist)
+    ```
 
 Kód vychází z příkladu na stránce [W3Schools](https://www.w3schools.com/python/python_dsa_bubblesort.asp).
 

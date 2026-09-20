@@ -12,13 +12,14 @@
 
 ## Zadání
 
-Student informatiky má problém s úkolem. Pomozte mu sestavit pedagogický prompt podle následujicích informací o studentovi. <br>
-- Úroveň: začátečník v [*programovací jazyk, který žák zná*]
-- Potíže: neví si rady, vytvořit logiku cyklu.
-- Kontext: [*programující úloha, kterou žák zná; musí obsahovat cyklus, jinak upravte Potíže*]
-- Ochrané prvky: neposkytovat řešení
-- Role AI: ???
-- Postup výuky: ???
+Student informatiky má problém s úkolem. Pomozte mu sestavit pedagogický prompt podle následujicích informací o studentovi.
+
+- úroveň: začátečník v [*programovací jazyk, který žák zná*]
+- potíže: neví si rady, vytvořit logiku cyklu
+- kontext: [*programující úloha, kterou žák zná; musí obsahovat cyklus, jinak upravte potíže*]
+- ochrané prvky: neposkytovat řešení
+- role AI: ??
+- postup výuky: ??
 
 Musíte správně určit jakou roli má AI zastávat a postup jakým by studentovi měla pomoci s jeho problémem. Jakmile budete mít hotový prompt, ověřte si jeho funkčnost tím, že jej dáte AI.
 

@@ -43,6 +43,7 @@ Očekávaný výstup je [3, 7, 9, 11, 12].
 ---
 
 ??? success "Vzorové řešení"
+    proměná swapped patří do vnějšího cyklu; v podmínce má být i nahrazeno za j+1; poslední podmínku je potřeba znegovat
     ```python title="bubblesort.py"
         mylist = [7, 3, 9, 12, 11]
 

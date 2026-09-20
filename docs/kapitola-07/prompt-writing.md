@@ -10,7 +10,7 @@
 
 ---
 
-# Zadání
+## Zadání
 
 Student informatiky má problém s úkolem. Pomozte mu sestavit pedagogický prompt podle následujicích informací o studentovi. <br>
 - Úroveň: začátečník v [*programovací jazyk, který žák zná*]

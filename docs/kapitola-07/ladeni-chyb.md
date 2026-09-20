@@ -10,7 +10,7 @@ Procvičení identifikace a opravy logických chyb v programu s podporou AI. Akt
 
 ---
 
-# Zadání
+## Zadání
 
 Opravte následující bubble sort kód. Postupujte podle následujících instrukcí:
 

@@ -7,7 +7,7 @@
 
 ## 1.1 Velké jazykové modely (LLM) a chatboti jednoduše
 
-Generativní AI je poměrně široký pojem zahrnující nástroje, které dokážou na základě vstupního zadání (promptu) vytvořit nový obsah, například text, obrázek nebo kód. Tato příručka popisuje využití především jednoho z typů generativní umělé inteligence a to velkých jazykových modelů (LLM - Large Language Models), které v poslední době zaznamenaly výrazný vývoj. S velkými jazykovými modely se uživatelé často setkávají prostřednictvím chatbotů, kteří umožňují s modelem komunikovat přirozeným jazykem. Nástroje umělé inteligence se pořád vyvíjejí, proto je příručka zaměřena obecně na AI, ne na konkrétní model.
+Generativní AI je poměrně široký pojem zahrnující nástroje, které dokážou na základě vstupního zadání (promptu) vytvořit nový obsah, například text, obrázek nebo kód. Tato příručka popisuje využití především jednoho z typů generativní umělé inteligence a to velkých jazykových modelů (LLM - Large Language Models), které v poslední době zaznamenaly výrazný vývoj. S velkými jazykovými modely se uživatelé často setkávají prostřednictvím chatbotů, kteří umožňují s modelem komunikovat přirozeným jazykem. Nástroje umělé inteligence se pořád vyvíjejí, proto je příručka zaměřena spíše obecně, než na konkrétní model. Zkratka AI v této příručce je používána právě ve smyslu generativní AI založené na LLM.
 
 
 !!! example "Příkladem chatbotů popsaných výše jsou"

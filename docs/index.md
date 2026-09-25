@@ -4,7 +4,7 @@
 
 ---
 
-Generativní umělá inteligence mění způsob, jakým studenti přistupují k programovacím úlohám a tím přináší nové možnosti pro výuku programování. Umělá inteligence (AI) studentům může pomohát s učením, například prostřednictvím vysvětlování kódu, hledání a pochopení chyb nebo posílení jejich motivaci k učení. Zároveň ale existuje riziko, že studenti pouze převezmou hotovou úlohu, která za ně AI vyřeší. Tato příručka nabízí učitelům konkrétní postupy a příklady, jak generativní AI smysluplně integrovat do výuky programování na střední škole.
+Generativní umělá inteligence mění způsob, jakým studenti přistupují k programovacím úlohám a tím přináší nové možnosti pro výuku programování. Umělá inteligence (AI) studentům může pomáhat s učením, například prostřednictvím vysvětlování kódu, hledání a pochopení chyb nebo posílení jejich motivaci k učení. Zároveň ale existuje riziko, že studenti pouze převezmou hotovou úlohu, která za ně AI vyřeší. Tato příručka nabízí učitelům konkrétní postupy a příklady, jak generativní AI smysluplně integrovat do výuky programování na střední škole.
 
 ---
 

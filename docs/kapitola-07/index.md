@@ -19,3 +19,6 @@ Aktivity slouží pro učitele i jako praktická inspirace zapojení AI do výuk
 ---
 
 *[Přejít na první aktivitu: Promptování →](prompt-writing.md)*
+
+*[← Předchozí kapitola: AI jako nástroj pro přípravu učitele](../kapitola-05/index.md)*<br>
+*[Další kapitola: Hodnocení studentů →](../kapitola-07/index.md)*

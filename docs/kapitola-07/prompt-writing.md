@@ -6,7 +6,7 @@
 
 ## Cíl aktivity
 
-Žáci si prakticky vyzkouší tvorbu pedagogického promptu, sami si musí dobře zvolit jaké instrukce AI dají. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci kapitoly. Zadání aktivity musí učitel vhodně doplnit pro své žáky. Pomocí navazující varianty si uvědomí význam jednotlivých částí promptu.
+Žáci si prakticky vyzkouší tvorbu pedagogického promptu, sami si musí dobře zvolit jaké instrukce AI dají. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci odkazované kapitoly. Zadání aktivity musí učitel vhodně doplnit pro své žáky. Pomocí navazující varianty si uvědomí význam jednotlivých částí promptu.
 
 ---
 
@@ -15,7 +15,7 @@
 Student informatiky má problém s úkolem. Pomozte mu sestavit pedagogický prompt podle následujicích informací o studentovi.
 
 - úroveň: začátečník v [*programovací jazyk, který žák zná*]
-- potíže: neví si rady, vytvořit logiku cyklu
+- potíže: neví si rady, jak vytvořit logiku cyklu
 - kontext: [*programující úloha, kterou žák zná; musí obsahovat cyklus, jinak upravte potíže*]
 - ochrané prvky: neposkytovat řešení
 - role AI: ??

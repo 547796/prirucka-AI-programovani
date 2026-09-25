@@ -640,7 +640,7 @@
 <h2 id="31-vysvetlovani-kodu">3.1 Vysvětlování kódu</h2>
 <p>Pokud si studenti neví rady s různými částmi kódu, nebo mají různé příklady, je pro učitele náročné věnovat se každému. S tímto problémem učiteli pomůže AI tutor, který dokáže interagovat se studenty individuálně. Pomocí <a href="../kapitola-02/">pedagogického promptu</a> AI tutor může studentům pomáhat pochopit kód následovně:</p>
 <p>Student poskytne AI kód nebo jeho část, které nerozumí. AI dostane specifické instrukce, jak má studentovi pomoci. Pokud se jedná o kratší kód, AI jej může studentovi vysvětlit řádek po řádku. V případě komplexnějšího kódu je vhodné AI říci ať nevysvětluje celý kód naráz, ale po logických částech. AI v jedné odpovědi může vysvětlit jen jednu funkci, rekurzi nebo cyklus.</p>
-<p>Je vhodnější nepožadovat pouze vysvětlení kódu po řádcích. AI může nejprve stručně shrnout, co program dělá, a potom <strong>pomocí vodicích otázek</strong> se studenta zeptá, proč co konkrétní část kódu dělá a proč je pro daný program důležitá. Student bude AI odpovídat a pokud udělá chybu nebo si pořád nebude jístý, může AI vysvětlit podrobněji, například po řádcích. Tato metoda vede studenta k přemýšlení nad problémem, namísto pasivního čtení výstupu AI.</p>
+<p>Je vhodnější nepožadovat pouze vysvětlení kódu po řádcích. AI může nejprve stručně shrnout, jak program funguje, a potom <strong>pomocí vodicích otázek</strong> se studenta zeptá, proč co konkrétní část kódu dělá a proč je pro daný program důležitá. Student bude AI odpovídat a pokud udělá chybu nebo si pořád nebude jístý, může požádat AI podrobnější vysvětlení, například po řádcích. Tato metoda vede studenta k přemýšlení nad problémem, namísto pasivního čtení výstupu AI.</p>
 <p><strong>Příklad</strong><br>
 Prompt: Jsem začátečník v Pythonu, učím se pracovat se seznamy, ale mám problém s porozuměním následujícího kódu:<br>
 [Kód (nebo jeho problematická část)]<br>
@@ -654,15 +654,11 @@ Jsi můj tutor programování pro začátečníky a pomocí vodicích otázek m�
 <p>To že si student přečte vysvětlení od AI neznamená, že tomu už rozumí, proto jsou vhodné vodicí otázky, které podporují aktivní přemýšlení studenta nad problémem.</p>
 </div>
 <h2 id="32-kriticke-reflektovani-ai-odpovedi">3.2 Kritické reflektování AI odpovědí</h2>
-<p>Může se stát, že AI bude během učení halucinovat (vymyslí si nesprávnou nebo zcela smyšlenou odpověď). V oblasti vzdělávání je toto problematické, protože student může uvěřit nepravdivé informaci, která zní přesvědčivě. Navíc AI nemusí poskytnou vždy totožné odpovědi, u generování kódu byl pozorován nedeterminismus. Proto není vhodné považovat odpověď za správnou pouze na základě jejího přesvědčivého vysvětlení. Je proto nutné, aby se studenti vždy nad každou AI odpovědí zamysleli, zda dává v daném kontextu smysl nebo ne. V oblasti programování si například mohou ověřit funkčnost AI kódu jeho spuštěním a otestováním, zejména na krajních případech. Pokud si student není jistý odpovědí od AI, může s ní o tom vést dialog, nebo se zeptat učitele. Další možnost je se na stejnou otázku zeptat AI znovu v jiném chatu, a to klidně i vícekrát, ale stále to neznamená jednoznačné ověření pravdivosti.</p>
+<p>Může se stát, že AI bude během učení halucinovat (vymyslí si nesprávnou nebo zcela smyšlenou odpověď). V oblasti vzdělávání je toto problematické, protože student může uvěřit nepravdivé informaci, která zní přesvědčivě. Navíc AI nemusí poskytnout vždy totožné odpovědi, u generování kódu byl pozorován nedeterminismus. Proto není vhodné považovat odpověď za správnou pouze na základě jejího přesvědčivého vysvětlení. Je proto nutné, aby se studenti vždy nad každou AI odpovědí zamysleli, zda dává v daném kontextu smysl nebo ne. V oblasti programování si například mohou ověřit funkčnost AI kódu jeho spuštěním a otestováním, zejména na krajních případech. Pokud si student není jistý odpovědí od AI, může s ní o tom vést dialog, nebo se zeptat učitele. Další možnost je se na stejnou otázku zeptat AI znovu v jiném chatu, a to klidně i vícekrát, ale stále to neznamená jednoznačné ověření pravdivosti.</p>
 <p>Kritické reflektování platí pro <strong>každou</strong> AI odpověď, ne jen v případě vysvětlování kódu.</p>
 <p><strong>Příklad</strong><br>
 AI tvrzení: Tento cyklus projde každé číslo v seznamu a připočítá k němu hodnotu následujícího čísla.</p>
 <p>Student by se měl následně zamyslet, zda tvrzení odpovídá chování programu a ověřit si jej například ručním průchodem. Student může dojít k závětu, že tvrzení AI je částečně správné, ale není popsáno co se stane s poslední položkou seznamu.</p>
-<div class="admonition info">
-<p class="admonition-title">Tip</p>
-<p>Místo umělé inteligence si studenti mohou ověřit správnost odpovědí jejím vyhledáním na internetu. Není nutné ptát se vždycky jen AI.</p>
-</div>
 <hr />
 <h2 id="shrnuti-kapitoly">Shrnutí kapitoly</h2>
 <div class="admonition success">

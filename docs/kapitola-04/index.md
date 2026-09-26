@@ -12,7 +12,7 @@ Kromě využití umělé inteligence při psaní kódů je možné ji využít t
 ## 4.1 Debugování kódu s pomocí AI
 Podobně jako *[AI tutor](../kapitola-03/index.md)* s využitím *[Pedagogického promtování](../kapitola-02/index.md)* dokáže umělá inteligence idenfikovat pravděpodobný problém v kódu, vysvětlit chybové hlášky, pomoci studentovi pochopit proč kód nefunguje, nebo ho navést k nalezení a ladění chyb. Pro účely vzdělávání není vhodné nechat AI opavit celý kód samotnou bez zapojení studenta. Řešení problému by mělo být na studentovi a AI by měla sloužit jako pomocník, se kterým se student může radit. Nestačí po studentovi požadovat pouze opravu kódu. Student by měl pochopit, kde chyba vznikla, jakým způsobem ji opravil a následně ověřit, že program funguje správně. Nejprve by si měl student sám zkusit chybu najít a vymyslet způsob, jakým ji opraví, potom se může poradit s AI.
 
-V rámci promptu může být AI instruována, aby při pomoci studentovi s debugováním zohledňovala například následující otázky:
+V rámci systémového promptu (*[popsáno v kapitole 6](../kapitola-06/index.md)* ) by si studenti měli nastavit AI tak, aby při pomoci s debugováním AI zohledňovala následující otázky:
 
 - Je problém v chybějící znalosti studenta?
 - Je aktuální kód a postup na dobré cestě?

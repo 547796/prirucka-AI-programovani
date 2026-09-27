@@ -16,7 +16,7 @@ Student informatiky má problém s úkolem. Pomozte mu sestavit pedagogický pro
 
 - úroveň: začátečník v [*programovací jazyk, který žák zná*]
 - potíže: neví si rady, jak vytvořit logiku cyklu
-- kontext: [*programující úloha, kterou žák zná; musí obsahovat cyklus, jinak upravte potíže*]
+- kontext: [*jednoduchá programovací úloha, kterou žák zná (např. hledání minima v poli); musí obsahovat cyklus, jinak upravte potíže*]
 - ochrané prvky: neposkytovat řešení
 - role AI: ??
 - postup výuky: ??

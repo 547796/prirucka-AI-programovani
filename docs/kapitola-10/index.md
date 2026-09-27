@@ -33,6 +33,7 @@ Zde najdete orientační přehled zdrojů, ze které příručka vychází. Podr
 - Zamfirescu-Pereira, J. D., Qi, L., Hartmann, B., DeNero, J., & Norouzi, N. (2025). 61A Bot Report: AI Assistants in CS1 Save Students Homework Time and Reduce Demands on Staff. (Now What?). Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1, 1309–1315. https://doi.org/10.1145/3641554.3701864
 
 - Khan, Sal. How AI Could Save (Not Destroy) Education. Online. In: YouTube. 2023. https://youtu.be/hJP5GqnTrNo.
+
 ---
 
 ## Autor

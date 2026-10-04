@@ -5,9 +5,7 @@
 
 ---
 
-
-
-## 8.1 Co a jak hodnotit
+## 8.1 Výstupy z učení a metody hodnocení
 
 Umělá inteligence je schopná řešit běžné programovací úlohy, proto už jako důkaz naplnění vzdělávacích cílu nestačí pouze hotový kód. Kromě samotného psaní kódu je potřeba rozvíjet a ověřovat i následující schopnosti studentů:
 

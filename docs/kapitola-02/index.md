@@ -14,7 +14,7 @@
  - kontext problému (podrobnosti o úkolu - zadání, studentův kód)
  - identifikace obtíží (problém s vymyslením postupu nebo debugováním)
  - ochranné prvky (co AI nesmí studentovy poskytnout - řešení, opravený kód, pokročilé funkce)
- - postup výuky (reakce AI - vysvětlit krok po kroku, uvést příklad, navést otázkami)
+ - postup výuky (reakce AI - vysvětlit kód krok po kroku, uvést příklad, navést otázkami)
 
 !!! tip "Důležité"
     Než studenti začnou používat při výuce AI, je vhodné s nimi probrat, jak s ní komunikovat a jak její výstupy kriticky hodnotit.

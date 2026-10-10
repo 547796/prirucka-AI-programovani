@@ -12,9 +12,8 @@ Aktivity slouží pro učitele i jako praktická inspirace zapojení AI do výuk
 | Aktivita | Čas |
 |---|---|
 | [Promptování](prompt-writing.md) | 15-20 min |
+| [AI jako tutor](tutor.md) | 25-35 min |
 | [Debugování kódu](ladeni-chyb.md) | 15-30 min |
-| [AI jako recenzent kódu](recenzent-kodu.md) | 30 min |
-
 
 ---
 

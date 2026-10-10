@@ -34,6 +34,10 @@ Zde najdete orientační přehled zdrojů, ze které příručka vychází. Podr
 
 - Khan, Sal. How AI Could Save (Not Destroy) Education. Online. In: YouTube. 2023. https://youtu.be/hJP5GqnTrNo.
 
+- Gordon, S., Denny, P., Keuning, H., Kiesler, N., Kumar, A. N., Kumar, V., Leinonen, J., & Prather, J. (b.r.). ACM Task Force on Generative AI and Programming Assessment.
+
+- Chung, C.-J. (2026). Ensuring Computer Science Learning in the AI Era: Open Generative AI Policies and Assignment-Driven Written Quizzes (arXiv:2601.17024). arXiv. https://doi.org/10.48550/arXiv.2601.17024
+
 ---
 
 ## Autor

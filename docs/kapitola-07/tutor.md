@@ -1,4 +1,4 @@
-# Aktivita: AI tutor
+# Aktivita: AI jako tutor
 
 **Časový odhad:** 25-35 minut
 

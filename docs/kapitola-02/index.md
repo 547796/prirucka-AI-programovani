@@ -29,7 +29,6 @@ Níže najdete příklady promptů, které můžete naučit své studenty. Najet
 <p style="font-size: 1.2em; font-weight: bold;">
 Pedagogický prompt 1
 </p>
-
 Jsem začátečník v Pythonu, <span title="identifikace obtíží">*mám problém s debugováním mého kódu.*</span> Zadání, můj kód a výstup jsou následující:
 
 <span title="kontext problému">*[Zadání]<br>
@@ -72,19 +71,25 @@ Můžeš vystupovat jako <span title="role AI">* tutor úvodu do programování 
 ## 2.3 Příklady špatných promptů
 Nenechte studenty během učení komunikovat s AI následujícím způsobem. Takové prompty zvyšují riziko, že AI hned poskytne studentovi hotové řešení aniž by student přemýšlel.
 
-### Špatný prompt 1
+<p style="font-size: 1.2em; font-weight: bold;">
+Špatný prompt 1
+</p>
 Rozhodně ne:
 
 Můj kód nefunguje, řekni mi co s tím.<br>
 <span title="pouze kontext problému">*[Studentův kód]*</span>
 
-### Špatný prompt 2
+<p style="font-size: 1.2em; font-weight: bold;">
+Špatný prompt 2
+</p>
 AI dostane pouze zadání a studentovu úroveň, stále mu však může ihned dát řešení:
 
 <span title="úroveň studenta">*Jsem začátečník v pythonu*</span>, tady je zadání příkladu, <span title="identifikace obtíží">*nevím co s tím*</span>:
 <span title="kontext problému">*Napiš program v Pythonu, který v zadaném seznamu čísel najde největší prvek.*</span>
 
-### Špatný prompt 3
+<p style="font-size: 1.2em; font-weight: bold;">
+Špatný prompt 3
+</p>
 Na pohled dostatečný, ale chybí ochranné prvky a konkrétní postup výuky:
 
 <span title="úroveň studenta">*Jsem začátečník v pythonu*</span> a <span title="role AI">*ty jsi můj tutor programování*</span>. Pomoz mi <span title="identifikace obtíží">*najít chybu v tomto programu*</span>. Nejdříve mi vysvětli, v čem může být problém.<br>

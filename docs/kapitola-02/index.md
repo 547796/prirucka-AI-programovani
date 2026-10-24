@@ -16,6 +16,8 @@
  - ochranné prvky (co AI nesmí studentovy poskytnout - řešení, opravený kód, pokročilé funkce)
  - postup výuky (reakce AI - vysvětlit kód krok po kroku, uvést příklad, navést otázkami)
 
+ Použití pedagogického promptu je důležité, pokud má AI pomáhat s učením, pro běžné vyhledávání informací pedagogický prompt nutný není.
+
 !!! tip "Důležité"
     Než studenti začnou používat při výuce AI, je vhodné s nimi probrat, jak s ní komunikovat a jak její výstupy kriticky hodnotit.
 
@@ -24,7 +26,10 @@
 ## 2.2 Příklady dobrých pedagogických promptů
 Níže najdete příklady promptů, které můžete naučit své studenty. Najetím mýší na písmo psané kurzívou se vám zobrazí konkrétní část promptu popsaná výše.
 
-### Pedagogický prompt 1
+<p style="font-size: 1.2em; font-weight: bold;">
+Pedagogický prompt 1
+</p>
+
 Jsem začátečník v Pythonu, <span title="identifikace obtíží">*mám problém s debugováním mého kódu.*</span> Zadání, můj kód a výstup jsou následující:
 
 <span title="kontext problému">*[Zadání]<br>
@@ -36,7 +41,9 @@ Můžeš vystupovat jako <span title="role AI">* tutor programování pro začá
 <span title="úroveň studenta">*Jelikož jsem začátečník*</span>, používej jednoduchou syntaxi a srozumitelný jazyk. <span title="ochranné prvky">*Neuváděj přímé řešení.*</span>
 
 
-### Pedagogický prompt 2
+<p style="font-size: 1.2em; font-weight: bold;">
+Pedagogický prompt 2
+</p>
 Zde AI neposkytuje studentovi řešení, ale analogický příklad, který mu pomůže porozumět principu řešení:
 
 <span title="úroveň studenta">*Jsem začátečník v Pythonu*</span> a <span title="identifikace obtíží">*mám potíže s pochopením for cyklu.*</span>
@@ -50,7 +57,9 @@ Můžeš vystupovat jako <span title="role AI">* tutor programování pro začá
 <span title="ochranné prvky">*Neposkytuj mi řešení mého příkladu.*</span>
 
 
-### Pedagogický prompt 3
+<p style="font-size: 1.2em; font-weight: bold;">
+Pedagogický prompt 3
+</p>
 <span title="úroveň studenta">*Jsem začátečník v Pythonu*</span> a <span title="identifikace obtíží">*mám potíže s porozuměním zadání úkolu.*</span>
 Můžeš vystupovat jako <span title="role AI">* tutor úvodu do programování pro začátečníky*</span>, <span title="postup výuky">*uvést mi příklady vstupů a výstupů a vysvětlit, jak se vstup v kontextu daného problému mění na výstup?*</span> Zadání problému je následující:<br>
 <span title="kontext problému">*[Zadání]<br>*</span>

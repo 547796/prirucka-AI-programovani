@@ -24,9 +24,7 @@ V rámci systémového promptu (*[popsáno v kapitole 6](../kapitola-06/index.md
 
 ## 4.2 Debugování vygenerováného kódu od AI
 
-Opravit kód, který vegenerovala AI může pro studenty kognitivně náročnější, proto by měl být tento typ úlohy zařazen do výuky jako pokročilejší úloha. Jako kód pro úlohu lze použít kód, který AI záměrně na pokyn vygenerovala s chybou, nebo kód, ve kterém AI při generování neúmyslně vytvořila chybu. Student by nejprve měl sám ověřit jak dobře kód funguje, například jestli kód postrádá klíčovou logiku, nebo stačí pouze upravit okrajové případy. Potom začít s debugováním a případně se poradit s AI, jak je popsáno výše.
-
-Při opravování AI-generovaného kódu může být problém způsoben i snadno přehlédnutelnou chybou, jako je záměna *<* za *<=* nebo *elif* za *if* nebo špatné zacházení s výstupem (*print* namísto *return*). Proto je nutné vždy kriticky ověřit AI výstup, jak je popsáno v *[předchozí kapitole](../kapitola-03/index.md)*.
+Opravit kód, který vegenerovala AI může pro studenty kognitivně náročnější, proto by měl být tento typ úlohy zařazen do výuky jako pokročilejší úloha. Jako kód pro úlohu lze použít kód, který AI záměrně na pokyn vygenerovala s chybou, nebo kód, ve kterém AI při generování neúmyslně vytvořila chybu. Student by nejprve měl sám ověřit jak dobře kód funguje, například jestli kód postrádá klíčovou logiku, nebo stačí pouze upravit okrajové případy. Potom začít s debugováním a případně se poradit s AI, jak je popsáno výše. Jelikož AI může nezáměrně vygenerovat chybný kód, je nutné vždy kriticky ověřit AI výstup, jak je popsáno v *[předchozí kapitole](../kapitola-03/index.md)*.
 
 ---
 

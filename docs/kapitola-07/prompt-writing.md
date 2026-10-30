@@ -6,7 +6,7 @@
 
 ## Cíl aktivity
 
-Žáci si prakticky vyzkouší tvorbu pedagogického promptu, sami si musí dobře zvolit jaké instrukce AI dají. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci odkazované kapitoly. Zadání aktivity musí učitel vhodně doplnit pro své žáky. Pomocí navazující varianty si uvědomí význam jednotlivých částí promptu.
+Žáci si prakticky vyzkouší tvorbu pedagogického promptu, sami si musí dobře zvolit jaké instrukce AI dají. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci odkazované kapitoly. Zadání aktivity musí učitel vhodně doplnit pro své žáky. Pomocí navazující varianty si uvědomí význam jednotlivých částí promptu. Je vhodné aktivitu zařadit do stejné hodiny, kdy se žáci seznamují s pedagogickým promptováním.
 
 ---
 

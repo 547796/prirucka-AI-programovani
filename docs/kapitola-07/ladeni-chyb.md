@@ -1,4 +1,4 @@
-# Aktivita: Debugování kódu
+# Aktivita: Debugování kódu s AI
 
 **Časový odhad:** 15-30 minut (podle znalostí studentů)
 

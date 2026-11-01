@@ -5,14 +5,14 @@
 ---
 
 ## Cíl aktivity
-Praktické seznámení použití AI jako tutora ve výuce programování, žáci si vyzkouší analyzovat kód a upravit jej. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci odkazované kapitoly. Programovací úloha je zaměřena na hledání duplicit v seznamu, avšak lze použít jakoukoliv jinou úlohu podle potřeby učitele.
+Praktické seznámení s použitím AI jako tutora ve výuce programování. Žáci si vyzkouší analyzovat kód a upravit jej. Aktivita předpokládá, že jste žáky seznámili s *[Pedagogickým promptováním](../kapitola-02/index.md)*, můžete využít i šablonu, která se nachází na konci odkazované kapitoly. Programovací úloha je zaměřena na hledání duplicit v seznamu, avšak lze použít jakoukoli jinou úlohu podle potřeby učitele.
 
 Kód v Pythonu byl vygenerován pomocí AI.
 
 ---
 
 ## Zadání
-Vysvětlete co zadaný program dělá. Předpokládejte, že na vstupu je seznam celých čísel. Postupujte podle následujících instrukcí:
+Vysvětlete, co zadaný program dělá. Předpokládejte, že na vstupu je seznam celých čísel. Postupujte podle následujících instrukcí:
 
 - sami kód analyzujte, odhadněte co dělá (můžete si kód spustit),
 - po vlastní analýze svůj návrh konzultujte s AI. Pokud si nejste jisti, co program dělá, nechte se od AI navést pomocí naváděcích otázek (zakažte AI vám poskytnout přímé řešení),
@@ -62,7 +62,7 @@ print(vysledek)
 
 !!! example "Na konci aktivity se zamyslete nad otázkami:"
     - Proč je potřeba kód přepsat do lépe čitelné podoby?
-    - Jak dobře mi AI pomohla? Dokázala mě navést na řešení pomocí otázek?
+    - Jak dobře mi AI pomohla? Dokázala mě navést k řešení pomocí otázek?
     - Jak jste ověřili, že váš upravený program funguje správně?
 
 *[← Zpět na přehled aktivit](index.md)*

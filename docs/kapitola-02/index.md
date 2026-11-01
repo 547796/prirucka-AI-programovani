@@ -7,13 +7,13 @@
 
 ## 2.1 Vysvětlení pojmu
 
- Prompt je uživatelův vstup, který zadá umělé inteligenci, aby získal požadovaný výstup. Může to být například text, otázka nebo instrukce. Pedagogický promt rozšiřuje tuto definici tím, že záměrně vede AI model k tomu, aby fungoval jako lektor a generoval reakce, které usnadňují vhodné učební aktivity sladěné s aktuální fází vývoje žáka. V praxi to může například znamenat, že AI nasměruje studenta reflexivními nebo vodícími otázkami k řešení úkolu, pomoci studentovi pochopit kód, než aby mu pouze poskytla řešení. Xiao et al. dále uvádějí, že pedagogický prompt se skládá z následujících částí:
+ Prompt je uživatelův vstup, který zadá umělé inteligenci, aby získal požadovaný výstup. Může to být například text, otázka nebo instrukce. Pedagogický promt rozšiřuje tuto definici tím, že záměrně vede AI model k tomu, aby fungoval jako lektor a generoval reakce, které usnadňují vhodné učební aktivity sladěné s aktuální fází vývoje žáka. V praxi to může například znamenat, že AI nasměruje studenta reflexivními nebo naváděcími otázkami k řešení úkolu, pomůže studentovi pochopit kód, než aby mu pouze poskytla řešení. Xiao et al. dále uvádějí, že pedagogický prompt se skládá z následujících částí:
 
  - role AI (například tutor, kolega nebo klient)
  - úroveň studenta (začátečník, středně pokročilý, pokročilý)
  - kontext problému (podrobnosti o úkolu - zadání, studentův kód)
  - identifikace obtíží (problém s vymyslením postupu nebo debugováním)
- - ochranné prvky (co AI nesmí studentovy poskytnout - řešení, opravený kód, pokročilé funkce)
+ - ochranné prvky (co AI nesmí studentovi poskytnout - řešení, opravený kód, pokročilé funkce)
  - postup výuky (reakce AI - vysvětlit kód krok po kroku, uvést příklad, navést otázkami)
 
  Použití pedagogického promptu je důležité, pokud má AI pomáhat s učením, pro běžné vyhledávání informací pedagogický prompt nutný není.
@@ -65,18 +65,18 @@ Můžeš vystupovat jako <span title="role AI">* tutor úvodu do programování 
 <span title="ochranné prvky">*Neposkytuj mi řešení úkolu.*</span>
 
 !!! info "Tip"
-    Pro lepší přehlednost lze prompty stukturovat pomocí odrážek nebo nových řádků.
+    Pro lepší přehlednost lze prompty strukturovat pomocí odrážek nebo nových řádků.
 ---
 
 ## 2.3 Příklady špatných promptů
-Nenechte studenty během učení komunikovat s AI následujícím způsobem. Takové prompty zvyšují riziko, že AI hned poskytne studentovi hotové řešení aniž by student přemýšlel.
+Nenechte studenty během učení komunikovat s AI následujícím způsobem. Takové prompty zvyšují riziko, že AI hned poskytne studentovi hotové řešení, aniž by student přemýšlel.
 
 <p style="font-size: 1.2em; font-weight: bold;">
 Špatný prompt 1
 </p>
 Rozhodně ne:
 
-Můj kód nefunguje, řekni mi co s tím.<br>
+Můj kód nefunguje, řekni mi, co s tím.<br>
 <span title="pouze kontext problému">*[Studentův kód]*</span>
 
 <p style="font-size: 1.2em; font-weight: bold;">
@@ -84,7 +84,7 @@ Můj kód nefunguje, řekni mi co s tím.<br>
 </p>
 AI dostane pouze zadání a studentovu úroveň, stále mu však může ihned dát řešení:
 
-<span title="úroveň studenta">*Jsem začátečník v pythonu*</span>, tady je zadání příkladu, <span title="identifikace obtíží">*nevím co s tím*</span>:
+<span title="úroveň studenta">*Jsem začátečník v Pythonu*</span>, tady je zadání příkladu, <span title="identifikace obtíží">*nevím co s tím*</span>:
 <span title="kontext problému">*Napiš program v Pythonu, který v zadaném seznamu čísel najde největší prvek.*</span>
 
 <p style="font-size: 1.2em; font-weight: bold;">
@@ -92,7 +92,7 @@ AI dostane pouze zadání a studentovu úroveň, stále mu však může ihned d�
 </p>
 Na pohled dostatečný, ale chybí ochranné prvky a konkrétní postup výuky:
 
-<span title="úroveň studenta">*Jsem začátečník v pythonu*</span> a <span title="role AI">*ty jsi můj tutor programování*</span>. Pomoz mi <span title="identifikace obtíží">*najít chybu v tomto programu*</span>. Nejdříve mi vysvětli, v čem může být problém.<br>
+<span title="úroveň studenta">*Jsem začátečník v Pythonu*</span> a <span title="role AI">*ty jsi můj tutor programování*</span>. Pomoz mi <span title="identifikace obtíží">*najít chybu v tomto programu*</span>. Nejdříve mi vysvětli, v čem může být problém.<br>
 <span title="kontext problému">*[Studentův kód]*</span>
 
 ---
@@ -116,7 +116,7 @@ Pomoz mi pomocí [postup výuky].<br>
 
 !!! success "Klíčové poznatky"
     - Pedagogické promptování obsahuje více než jen pokyn k vypracování úkolu.
-    - Důležité je nenechat AI aby studentům prozradila řešení bez procesu učení.
+    - Důležité je nenechat AI, aby studentům prozradila řešení bez procesu učení.
     - Před použitím AI studenty v programování je vhodné jim vysvětlit, jak s AI pracovat.
 
 ---

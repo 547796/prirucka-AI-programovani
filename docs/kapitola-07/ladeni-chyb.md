@@ -6,7 +6,7 @@
 
 ## Cíl aktivity
 
-Procvičení identifikace a opravy logických chyb v programu s podporou AI. Aktivita se zaměřuje na logické chyby a porozumění algoritmu. Zdůrazněte studentům, že je potřeba s AI komunikovat *[stylem podporující jejich přemýšlení](../kapitola-02/index.md)*. Aktivita je vhodná pro žáky, kteří znají princip bubble sortu.
+Procvičení identifikace a opravy logických chyb v programu s podporou AI. Aktivita se zaměřuje na logické chyby a porozumění algoritmu. Zdůrazněte studentům, že je potřeba s AI komunikovat *[stylem podporujícím jejich přemýšlení](../kapitola-02/index.md)*. Aktivita je vhodná pro žáky, kteří znají princip bubble sortu.
 
 ---
 
@@ -44,7 +44,7 @@ Očekávaný výstup je [3, 7, 9, 11, 12].
 ---
 
 ??? success "Vzorové řešení"
-    proměná swapped patří do vnějšího cyklu; v podmínce má být i nahrazeno za j+1; poslední podmínku je potřeba znegovat
+    Proměná swapped patří do vnějšího cyklu; v podmínce má být i nahrazeno za j+1; poslední podmínku je potřeba znegovat.
     ```python title="bubblesort.py"
         mylist = [7, 3, 9, 12, 11]
 

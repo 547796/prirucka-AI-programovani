@@ -1,9 +1,9 @@
 # Praktické aktivity do výuky
 
 !!! abstract "Cíl kapitoly"
-    V kapitole najdete aktivity k použití do hodiny. Aktivity jsou navrženy tak aby využití AI nebránilo procesu učení.
+    V kapitole najdete aktivity k použití do hodiny. Aktivity jsou navrženy tak, aby využití AI nebránilo procesu učení.
 
-Aktivity slouží pro učitele i jako praktická inspirace zapojení AI do výuky. U každé aktivity je uveden její cíl, odhadovaný čas a reflexe samotné aktivity.
+Aktivity slouží pro učitele jako praktická inspirace zapojení AI do výuky. U každé aktivity je uveden její cíl, odhadovaný čas a reflexe samotné aktivity. Zadání aktivity si každý učitel může přizpůsobit tak, aby téma sedělo k probírané látce.
 
 ---
 

@@ -1,6 +1,6 @@
 # Zdroje
 
-Zde najdete orientační přehled zdrojů, ze které příručka vychází. Podrobnější rešerši naleznete v teoretické části bakalářské práce.
+Zde najdete orientační přehled zdrojů, ze kterých příručka vychází. Podrobnější rešerši naleznete v teoretické části bakalářské práce.
 
 ---
 

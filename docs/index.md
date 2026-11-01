@@ -4,7 +4,7 @@
 
 ---
 
-Generativní umělá inteligence mění způsob, jakým studenti přistupují k programovacím úlohám a tím přináší nové možnosti pro výuku programování. Umělá inteligence (AI) studentům může pomáhat s učením, například prostřednictvím vysvětlování kódu, hledání a pochopení chyb nebo posílení jejich motivaci k učení. Zároveň ale existuje riziko, že studenti pouze převezmou hotovou úlohu, která za ně AI vyřeší. Tato příručka nabízí učitelům konkrétní postupy a příklady, jak generativní AI smysluplně integrovat do výuky programování na střední škole. Umělá inteligence rovněž ovlivňuje vhodné výstupy z učení, jak by v době AI měli vypadat výstupy z učení a jak je hodnotit se dočtete v kapitole *[Hodnocení studentů](../kapitola-08/index.md)*.
+Generativní umělá inteligence mění způsob, jakým studenti přistupují k programovacím úlohám a tím přináší nové možnosti pro výuku programování. Umělá inteligence (AI) studentům může pomáhat s učením, například prostřednictvím vysvětlování kódu, hledání a pochopení chyb nebo posílení jejich motivaci k učení. Zároveň ale existuje riziko, že studenti pouze převezmou hotovou úlohu, kterou za ně AI vyřeší. Tato příručka nabízí učitelům konkrétní postupy a příklady, jak generativní AI smysluplně integrovat do výuky programování na střední škole. Umělá inteligence rovněž ovlivňuje vhodné výstupy z učení, jak by v době AI měly vypadat výstupy z učení a jak je hodnotit, se dočtete v kapitole *[Hodnocení studentů](/kapitola-08/index.md)*.
 
 ---
 
@@ -29,7 +29,7 @@ Ačkoliv je příručka primárně zaměřena pro středoškolské učitele, ně
 | [2 · Pedagogické promptování](kapitola-02/index.md) | Efektivní prompty podporující učení, šablona|
 | [3 · AI jako tutor](kapitola-03/index.md) | Porozumění kódu, reflexe AI výstupu|
 | [4 · Debugování kódu s AI](kapitola-04/index.md) | AI jako pomocník a generátor kódu při ladění|
-| [5 · AI párové programování](kapitola-05/index.md) | AI asistent pro párové prográmatory|
+| [5 · AI párové programování](kapitola-05/index.md) | AI asistent pro párové programátory|
 | [6 · AI jako nástroj pro přípravu učitele](kapitola-06/index.md) | Generování úloh, testů a pomoc při plánování výuky|
 | [7 · Praktické aktivity](kapitola-07/index.md) | Aktivity k použití ve výuce|
 | [8 · Hodnocení studentů](kapitola-08/index.md) | Výstupy z učení, hodnocení studentů a práce s AI|

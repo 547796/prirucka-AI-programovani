@@ -27,7 +27,7 @@ Ačkoliv je příručka primárně zaměřena pro středoškolské učitele, ně
 |---|---|
 | [1 · Generativní AI ve výuce programování](kapitola-01/index.md) | LLM, přínosy a omezení AI ve výuce programování|
 | [2 · Pedagogické promptování](kapitola-02/index.md) | Efektivní prompty podporující učení, šablona|
-| [3 · AI jako tutor](kapitola-03/index.md) | Porozumění kódu, reflexe AI výstupu|
+| [3 · AI jako tutor](kapitola-03/index.md) | Orientace v kódu, reflexe AI výstupu|
 | [4 · Debugování kódu s AI](kapitola-04/index.md) | AI jako pomocník a generátor kódu při ladění|
 | [5 · AI párové programování](kapitola-05/index.md) | AI asistent pro párové programátory, doporučený postup práce|
 | [6 · AI jako nástroj pro přípravu učitele](kapitola-06/index.md) | Generování úloh, testů a pomoc při plánování výuky, učitelský prompt|

@@ -2,32 +2,8 @@
 
 ---
 
-#Kapitola není hotová
+Generativní umělá inteligence může být užitečným nástrojem ve výuce programování. Její přínos závisí především na tom, jakým způsobem je do výuky zapojena. AI má sloužit jako pomocník pro studenty nebo učitele, jejím úkolem v oblasti vzdělávání není řešit problémy za studenty. Vhodně nastavená AI pomáhá tak, aby nebránila studentům v přemýšlení, pomohla jim pochopit učivo, rozvíjet jejich programátorské dovednosti a podporovala celkově proces učení. Konkrétní nástroje se rychle vyvíjejí, proto je dobré znát obecné principy použití AI ve výuce programování, ne konkrétní AI modely. Příručka je psaná obecně pro učitele střední školy, nejedná se o univerzální návod použitelný na každé škole stejným způsobem. Konkrétní učitel by si měl příručku přizpůsobit své škole, úrovni studentů a vlastnímu stylu učení.
 
-## 10.1 Doporučené nástroje
+Pro správné použití AI ve výuce je nutné seznámit studenty s pedagogickým promptováním. Studenti musí umět komunikovat s AI vhodným stylem pro učení. Pedagogickým promptem lze AI nasměrovat tak, aby se snažila studenta navést k nalezení řešení, nebo mu pomohla pochopit danou látku namísto předání hotového řešení. Při použití AI je nutné ověřit její výstup. Studenti se nesmí příliš spoléhat na AI, nad každým výstupem se musí zamyslet a kriticky jej zhodnotit. AI nenahrazuje plně práci učitele, pokud si student není jistý AI výstupem, je vhodné se poradit s učitelem, případně s jiným studentem. AI by neměla být jediným zdrojem pomoci.
 
-| Nástroj | Odkaz | Poznámka |
-|---|---|---|
-| GitHub Copilot for Students | [education.github.com](https://education.github.com) | Zdarma pro školy |
-| ChatGPT | [chat.openai.com](https://chat.openai.com) | Zdarma / Plus |
-| Claude | [claude.ai](https://claude.ai) | Zdarma / Pro |
-| Replit | [replit.com](https://replit.com) | Online IDE, vhodné pro ZŠ/SŠ |
-| CS50 AI | [cs50.ai](https://cs50.ai) | AI tutor od Harvardu |
-
----
-
-## 10.2 Doporučená literatura
-
-*Zde napiš svůj text a doplň zdroje dle požadavků tvé školy (APA, ISO 690...).*
-
----
-
-## 10.3 Online komunity a další vzdělávání
-
-*Zde napiš svůj text...*
-
----
-
-## 10.4 Jak příručku citovat
-
-> Příjmení, J. (2025). *AI ve výuce programování: Metodická příručka*. Dostupné z: [URL]
+AI může pomáhat nejen studentům, ale i učitelům. Učitel může s pomocí AI brainstormovat nápady, plány hodiny nebo aktivity do výuky. AI pomůže učiteli vytvořit různé varianty úloh pro test a tím efektivně učiteli šetřit čas. Učitel se musí vždyy rozhodnout, zda je doporučení AI vhodné, případně jej upravit. AI slouží při plánování výuky spíše jako studnice nápadů, než jako perfektní plánovač. Díky schopnosti AI vytvářet funkční kód je potřeba přehodnotit výstupy z učení. V dnešní době je vhodné se zaměřit na algoritmické přemýšlení, schopnost řešit problémy,  pochopení kódu, debugování. Samostatné psaní kódu není dostačující, ale studenti by měli pochopopit základní koncepty, vyznat se v kódu a umět vytvořit jednoduchý program.

@@ -7,3 +7,8 @@ Generativní umělá inteligence může být užitečným nástrojem ve výuce p
 Pro správné použití AI ve výuce je nutné seznámit studenty s pedagogickým promptováním. Studenti musí umět komunikovat s AI vhodným stylem pro učení. Pedagogickým promptem lze AI nasměrovat tak, aby se snažila studenta navést k nalezení řešení, nebo mu pomohla pochopit danou látku namísto předání hotového řešení. Při použití AI je nutné ověřit její výstup. Studenti se nesmí příliš spoléhat na AI, nad každým výstupem se musí zamyslet a kriticky jej zhodnotit. AI nenahrazuje plně práci učitele, pokud si student není jistý AI výstupem, je vhodné se poradit s učitelem, případně s jiným studentem. AI by neměla být jediným zdrojem pomoci.
 
 AI může pomáhat nejen studentům, ale i učitelům. Učitel může s pomocí AI brainstormovat nápady, plány hodiny nebo aktivity do výuky. AI pomůže učiteli vytvořit různé varianty úloh pro test a tím efektivně učiteli šetřit čas. Učitel se musí vždyy rozhodnout, zda je doporučení AI vhodné, případně jej upravit. AI slouží při plánování výuky spíše jako studnice nápadů, než jako perfektní plánovač. Díky schopnosti AI vytvářet funkční kód je potřeba přehodnotit výstupy z učení. V dnešní době je vhodné se zaměřit na algoritmické přemýšlení, schopnost řešit problémy,  pochopení kódu, debugování. Samostatné psaní kódu není dostačující, ale studenti by měli pochopopit základní koncepty, vyznat se v kódu a umět vytvořit jednoduchý program.
+
+---
+
+*[← Předchozí kapitola: Hodnocení studentů](../kapitola-08/index.md)*<br>
+*[Zdroje →](../kapitola-10/index.md)*

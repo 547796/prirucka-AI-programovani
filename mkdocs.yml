@@ -63,7 +63,12 @@ nav:
   - "4 · Debugování kódu pomocí AI": kapitola-04/index.md
   - "5 · AI párové programování": kapitola-05/index.md
   - "6 · AI jako nástroj pro přípravu učitele": kapitola-06/index.md
-  - "7 · Praktické aktivity": kapitola-07/index.md
+  - "7 · Praktické aktivity":
+      - Přehled: kapitola-07/index.md
+      - Promptování: kapitola-07/prompt-writing.md
+      - AI jako tutor: kapitola-07/tutor.md
+      - Debugování kódu s AI: kapitola-07/ladeni-chyb.md
+      - Párové programování s AI: kapitola-07/parove-programovani.md
   - "8 · Hodnocení studentů": kapitola-08/index.md
   - "9 · Závěr": kapitola-09/index.md
   - "10 · Zdroje": kapitola-10/index.md

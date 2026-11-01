@@ -6,7 +6,6 @@
     font-weight: 400 !important;
 }
 
-/* Odsazení podkapitol praktických aktivit */
-.md-nav__item--section > .md-nav__container ~ .md-nav {
+.md-nav__item--section .md-nav__list {
     padding-left: 0.8rem;
 }

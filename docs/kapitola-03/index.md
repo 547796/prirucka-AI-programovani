@@ -34,7 +34,9 @@ Po další interakci může AI dát studentovi podobný příklad na procvičen�
 ## 3.2 Kritické reflektování AI odpovědí
 Může se stát, že AI bude během učení halucinovat (vymyslí si nesprávnou nebo zcela smyšlenou odpověď). V oblasti vzdělávání je toto problematické, protože student může uvěřit nepravdivé informaci, která zní přesvědčivě. Navíc AI nemusí poskytnout vždy totožné odpovědi, u generování kódu byl pozorován nedeterminismus. Proto není vhodné považovat odpověď za správnou pouze na základě jejího přesvědčivého vysvětlení. Je proto nutné, aby se studenti nad AI odpovědí zamysleli, zda dává v daném kontextu smysl nebo ne. V oblasti programování si například mohou ověřit funkčnost AI kódu jeho spuštěním a otestováním, zejména na krajních případech. Pokud si student není jistý odpovědí od AI, může s ní o tom vést dialog, nebo se zeptat učitele. Další možnost je se na stejnou otázku zeptat AI znovu v jiném chatu, a to klidně i vícekrát, ale stále to neznamená jednoznačné ověření pravdivosti. Kritické reflektování platí pro **každou** AI odpověď, nejen v případě vysvětlování kódu.
 
-Při řešení úkolu s AI by studenti měli postupovat způsobem, který kromě podporování přemýšlení studentů a kritické reflexe AI odpovědí navíc omezuje pasivní spoléhání se na AI:
+## 3.3 Doporučený postup práce s AI při řešení úkolu
+
+AI tutora lze využívat nejen při vysvětlování kódu, ale i při řešení programátorských úkolů. Pomocí naváděcích otázek a diskusí se studentem může AI pomoci studentovi pokud se zasekne, nebo když neví, jak začít. Při řešení úkolu s AI by studenti měli postupovat způsobem, který kromě podporování přemýšlení studentů a kritické reflexe AI odpovědí navíc omezuje pasivní spoléhání se na AI:
 
 - Nejdřív o úkolu přemýšlejte sami. Zkuste se zamyslet, jak byste problém řešili, navrhnout postup řešení nebo jeho začátek, případně pojmenujte to, s čím máte problém.
 - Pokud si nevíte rady, požádejte AI o pomoc, ne o hotové řešení.

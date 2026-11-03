@@ -16,10 +16,9 @@ Příklad vstupu: [45, 78, 50, 91, 38, 67, "N", 21];<br>
 Program musí umět vypočítat a vypsat:
 
 - průměr všech získaných bodů (studenti, kteří test nepsali se nepočítají)
-- nejvyšší dosažený počet bodů
-- nejnižší dosažený počet bodů
+- nejvyšší a nejnižší dosažený počet bodů
 - počet jedniček z testu (90-100 bodů)
-- počet neúspěšných studentů (do 0-44 bodů)
+- počet neúspěšných studentů (0-44 bodů)
 - počet studentů, kteří test nepsali
 
 Pokud je na vstupním seznamu číslo mimo požadovaný interval, program vypíše chybovou hlášku a skončí neúspěšně.
